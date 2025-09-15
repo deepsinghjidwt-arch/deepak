@@ -1,0 +1,5 @@
+name : creating a mew file
+host : local host
+task : 
+type : ec2 :: aws :: Instances
+keypair : 1569
